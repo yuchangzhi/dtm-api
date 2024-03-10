@@ -1,0 +1,10 @@
+1.本软件使用jdk1.8版本
+2.在linux运行需要给start.out和dtm.jar授予可执行权限(chmod 777 -R ../dtm)
+3.windows环境使用不可关闭控制台窗口.
+4.application.properties为参数配置文件:
+测试软件最多支持3个数据源
+db.names=db1,db2,db3
+测试软件只适配postgresql和mysql
+db1和db2为mysql配置样例
+db3为postgresql配置样例
+其他操作请观看用户操作手册.
