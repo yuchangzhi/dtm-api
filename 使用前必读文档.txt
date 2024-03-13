@@ -8,3 +8,11 @@ db.names=db1,db2,db3
 db1和db2为mysql配置样例
 db3为postgresql配置样例
 其他操作请观看用户操作手册.
+
+http端口8095
+https端口8096
+
+startX86和startX64为win10系统运行环境
+startLinux为linux系统运行
+
+购买正版请联系晶羽软件:204698630@qq.com
